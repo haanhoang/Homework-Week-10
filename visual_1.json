@@ -1,8 +1,8 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "view": {"fill":"#a7cdf2"},
-    "width": 2000,
-    "height": 1150,
+    "width": 1000,
+    "height": 600,
     "title": "Amount gambled per adult person in VIC's Local Government Area in 2022.",
     "projection": {
         "type": "equirectangular"

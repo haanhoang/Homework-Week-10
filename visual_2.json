@@ -1,7 +1,7 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "width": 2000,
-    "height": 1150,
+    "width": 1000,
+    "height": 600,
     "title": "Amount lost by gamblers in each LGA.",
     "data": {
       "url": "https://raw.githubusercontent.com/haanhoang/Homework-Week-10/main/Data/Sample_data.csv"
