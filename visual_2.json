@@ -45,7 +45,7 @@
           "value": 0.2
         },
         "tooltip": [
-          {"field": "LGA Name", "type": "nominal", "title": "LGA Name: "},
+          {"field": "LGA Name", "type": "nominal", "title": "LGA Name"},
           {
             "field": "Expenditure per adult",
             "type": "quantitative",
@@ -87,7 +87,7 @@
           "value": 0
         },
         "tooltip": [
-          {"field": "LGA Name", "type": "nominal", "title": "LGA Name: "},
+          {"field": "LGA Name", "type": "nominal", "title": "LGA Name"},
           {
             "field": "Expenditure per adult",
             "type": "quantitative",
