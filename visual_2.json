@@ -49,19 +49,19 @@
           {
             "field": "Expenditure per adult",
             "type": "quantitative",
-            "title": "$ Gambled per Adult: ",
+            "title": "$ Gambled per Adult",
             "format": ".2f"
           },
           {
             "field": "Number of machine per 1000 adults",
             "type": "quantitative",
-            "title": "Number of machine per 1000 adults: ",
+            "title": "Number of machine per 1000 adults",
             "format": ".2f"
           },
           {
             "field": "Adults per venue",
             "type": "quantitative",
-            "title": "Adults per venue: ",
+            "title": "Adults per venue",
             "format": ".2f"
           }
         ]
@@ -91,19 +91,19 @@
           {
             "field": "Expenditure per adult",
             "type": "quantitative",
-            "title": "$ Gambled per Adult: ",
+            "title": "$ Gambled per Adult",
             "format": ".2f"
           },
           {
             "field": "Number of machine per 1000 adults",
             "type": "quantitative",
-            "title": "Number of machine per 1000 adults: ",
+            "title": "Number of machine per 1000 adults",
             "format": ".2f"
           },
           {
             "field": "Adults per venue",
             "type": "quantitative",
-            "title": "Adults per venue: ",
+            "title": "Adults per venue",
             "format": ".2f"
           }
         ]
